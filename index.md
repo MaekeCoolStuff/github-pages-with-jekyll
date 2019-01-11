@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Github Pages Test
 
-I'm glad you are here. I plan to talk about ...
+Dit is een test met Github Pages
